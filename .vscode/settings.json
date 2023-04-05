@@ -1,0 +1,20 @@
+{
+  "editor.formatOnSave": true,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": true,
+    "source.fixAll.stylelint": true
+  },
+  "typescript.tsdk": "node_modules/typescript/lib",
+  "css.lint.unknownAtRules": "ignore",
+  "cSpell.words": [
+    "anymindgroup",
+    "creds",
+    "cssmodule",
+    "semibold",
+    "sidenav",
+    "stylelint",
+    "svgr",
+    "szhsin"
+  ]
+}
